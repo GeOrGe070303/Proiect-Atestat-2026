@@ -128,7 +128,7 @@ b) Titluri și text: <h1>, <h2>, <h3>, <p>
 •	Paragrafele organizează textul într-un mod ușor de citit.
 În paginile expozițiilor am folosit titluri pentru numele expoziției și paragrafe pentru descriere. 
 
-c) Link-uri: <a href="...">
+c) Link-uri: 
 Link-urile sunt folosite atât pentru navigare internă (între pagini), cât și externă (Facebook, site-ul muzeului etc.).
 În pagina index, imaginile sunt încadrate în link-uri astfel încât apăsarea pe ele trimite utilizatorul către o pagină externă (anunț/afiș/postare). 
 d) Imagini: 
