@@ -131,7 +131,7 @@ b) Titluri și text: <h1>, <h2>, <h3>, <p>
 c) Link-uri: <a href="...">
 Link-urile sunt folosite atât pentru navigare internă (între pagini), cât și externă (Facebook, site-ul muzeului etc.).
 În pagina index, imaginile sunt încadrate în link-uri astfel încât apăsarea pe ele trimite utilizatorul către o pagină externă (anunț/afiș/postare). 
-d) Imagini: <img src="..." alt="...">
+d) Imagini: 
 Imaginile sunt foarte importante în proiect deoarece:
 •	fac paginile mai atractive
 •	susțin informația (expoziții, bilete, fotografii de muzeu)
